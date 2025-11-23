@@ -34,71 +34,15 @@ DOMAIN-SUFFIX,bortzmeyer.org
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,difyai.com
 DOMAIN-SUFFIX,genspark.ai
-# NAME: Copilot
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:20:02
-# DOMAIN: 20
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 26
-# IP-ASN: 2
-# IP-CIDR: 2
-# TOTAL: 51
-DOMAIN,api.msn.com
-DOMAIN,api.statsig.com
-DOMAIN,assets.msn.com
-DOMAIN,browser-intake-datadoghq.com
-DOMAIN,chat.openai.com.cdn.cloudflare.net
-DOMAIN,gateway.bingviz.microsoft.net
-DOMAIN,gateway.bingviz.microsoftapp.net
-DOMAIN,in.appcenter.ms
-DOMAIN,location.microsoft.com
-DOMAIN,odc.officeapps.live.com
-DOMAIN,openai-api.arkoselabs.com
-DOMAIN,openaicomproductionae4b.blob.core.windows.net
-DOMAIN,production-openaicom-storage.azureedge.net
-DOMAIN,r.bing.com
-DOMAIN,self.events.data.microsoft.com
-DOMAIN,services.bingapis.com
-DOMAIN,static.cloudflareinsights.com
-DOMAIN,sydney.bing.com
-DOMAIN,www.bing.com
-DOMAIN-SUFFIX,algolia.net
-DOMAIN-SUFFIX,api.microsoftapp.net
-DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,chatgpt.livekit.cloud
-DOMAIN-SUFFIX,edgeservices.bing.com
-DOMAIN-SUFFIX,host.livekit.cloud
-DOMAIN-SUFFIX,launchdarkly.com
-DOMAIN-SUFFIX,observeit.net
-DOMAIN-SUFFIX,openaicom.imgix.net
-DOMAIN-SUFFIX,segment.io
-DOMAIN-SUFFIX,turn.livekit.cloud
-DOMAIN-KEYWORD,openaicom-api
-IP-CIDR,24.199.123.28/32,no-resolve
-IP-CIDR,64.23.132.171/32,no-resolve
-IP-ASN,14061,no-resolve
-IP-ASN,20473,no-resolve
-DOMAIN,ai.google.dev
-DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN,makersuite.google.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,apis.google.com
-DOMAIN-KEYWORD,colab
-DOMAIN-KEYWORD,developerprofiles
-DOMAIN-KEYWORD,generativelanguage
+
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.ai
+
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,signalr.net
+
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metademolab.com
-DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,signalr.net
-DOMAIN,cdn.usefathom.com
